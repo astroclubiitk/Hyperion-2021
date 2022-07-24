@@ -23,6 +23,7 @@ The scientific paper on <a href="https://arxiv.org/abs/1812.07578" target="_blan
 ### Secretaries involved
     -   Adit Jain
     -   Shashank Sinha
+    -   Ojsi Goel
     -   Vasu Paliwal
 
 <br>
